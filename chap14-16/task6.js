@@ -1,0 +1,1 @@
+var mixArray=[false,5,"my",true,"Name",1]
